@@ -1,0 +1,10 @@
+Flask>=2.2
+feedparser>=6.0
+newspaper3k>=0.2.8
+requests>=2.28
+google-auth>=2.20
+google-auth-oauthlib>=1.0.0
+google-api-python-client>=2.95
+google-cloud-storage>=2.11
+python-dotenv>=1.0
+Pillow>=9.5
